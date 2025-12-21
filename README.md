@@ -18,7 +18,7 @@
 1. Clone the repository.
 
      ```bash
-   git clone https://github.com/sabirhusseinbalal/json-fetch-post-react-app.git
+   git clone https://github.com/sabirhusseinbalal/react-redux-simple-app.git
    ```
   
 3. Run `npm install` to install dependencies.
