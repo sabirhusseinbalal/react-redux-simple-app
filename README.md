@@ -3,7 +3,7 @@
 **A Simple React project utilizing Redux for state management. This repository showcases how to integrate React with Redux, including examples of actions, reducers, and dispatching state updates.**
 
 
-# Employee Management App
+**Employee Management App**
 
 ## Features
 
