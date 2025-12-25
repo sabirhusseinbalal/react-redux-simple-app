@@ -1,6 +1,6 @@
 # A Simple React Redux App
 --------
-### A Simple React project utilizing Redux for state management. This repository showcases how to integrate React with Redux, including examples of actions, reducers, and dispatching state updates.
+# A Simple React project utilizing Redux for state management. This repository showcases how to integrate React with Redux, including examples of actions, reducers, and dispatching state updates.
 
 
 # Employee Management App
@@ -27,4 +27,7 @@
 ## Usage
 
 After starting the application, you can interact with the employee list by liking, disliking, and following employees. The data is dynamically loaded from a JSON file.
+
+
+🎥 **[Demo Video](Demo.mp4)**: Watch a short demo of this simple project.
 
